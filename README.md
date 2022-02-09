@@ -1,2 +1,15 @@
  - Project Name: Machine-Learning-AirBnB
- - Carlee Peterson and MeKenzi Bogard
+ - Team members: Carlee Peterson and MeKenzi Bogard
+ - Summary: We are attemping to create a Machine Learning model to predict prices of AirBnBs within Portland, Oregon. We want to create models for each neighborhoods.
+ - Problem Statement: What features correlate to AirBnB prices?
+ - Databases: Insider AirBnB (http://insideairbnb.com/get-the-data.html)
+ - Tools/Packages:
+    - python=3.8
+    - geopandas
+    - matplotlib
+    - numpy
+    - jupyter
+    - scikit-learn
+- We plan to use a similar method to what we did in lab 5. We plan to train a machine learning model to predict prices for AirBnB. Use the method of randomforest regressor for our machine learning we will reduce the error. Reducing the error creates a better model at predicting the prices. 
+- We expect that using multiple models based on the neighborhoods will create the lowest error.
+- Some references for this project is the data dictionary for the insideairbnb (https://docs.google.com/spreadsheets/d/1iWCNJcSutYqpULSQHlNyGInUvHg2BoUGoNRIGa6Szc4/edit#gid=982310896) and lab 5 from GEOG 490.

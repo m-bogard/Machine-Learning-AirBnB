@@ -1,1 +1,2 @@
-# Machine-Learning-AirBnB
+ - Project Name: Machine-Learning-AirBnB
+ - Carlee Peterson and MeKenzi Bogard

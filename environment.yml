@@ -1,0 +1,11 @@
+name: Final
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.8    # Python version 3.8
+    - geopandas     # Geospatial extension of pandas
+    - matplotlib    # 2D plotting library
+    - numpy         # N-d array and numerics 
+    - jupyter       # Interactive notebooks
+    - scikit-learn  # Machine learning
